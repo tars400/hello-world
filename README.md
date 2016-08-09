@@ -7,4 +7,4 @@ Worked on several well known programming languages, Android and Web development 
 
 As a self motivated individual driven by a strong interest, my objective is to contribute, support and to be a part of Start Up culture or an Open Source community, Non profit organizations and Poverty alleviation programs.
 
-Keen interest in Startups, Hackathons, Coding challenges and Gaming.,
+Keen interest in Startups, Hackathons, Coding challenges and Gaming.
