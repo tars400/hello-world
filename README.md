@@ -9,4 +9,4 @@ As a self motivated individual driven by a strong interest, my objective is to c
 
 Keen interest in Startups, Hackathons, Coding challenges and Gaming.
 
-Connect with me on linkedin: https://in.linkedin.com/in/tarun-s-960b31a1
+Connect with me on linkedin: http://bit.ly/2b9HFKt
