@@ -1,6 +1,6 @@
 ## Hello-world
 
-Hi,
+### Hi,
 I am vehement and fanatic about Mobile Computing and technology, Coding, Start Ups, Machine Learning, System on Chips, Internet of Things, Open Source technology, Entrepreneurship, Computer Networks, Investments, Stocks and Table Tennis.
 
 Worked on several well known programming languages, Android and Web development projects, also dabbled in a few Micro-Controllers and corresponding tools. Applied these technical skills to solve real world problems.
